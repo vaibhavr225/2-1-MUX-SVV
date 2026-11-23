@@ -24,12 +24,16 @@ The output depends on the value of the select line:
 
 ### Truth Table
 
-| S | A | B | Y |
+| A | B | Sel | Y |
 |---|---|---|---|
-| 0 | 0 | X | 0 |
-| 0 | 1 | X | 1 |
-| 1 | X | 0 | 0 |
-| 1 | X | 1 | 1 |
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 |
+| 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 1 |
 
 ## Verification Architecture
 
