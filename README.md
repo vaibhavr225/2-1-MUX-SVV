@@ -76,4 +76,4 @@ The testbench contains the following components:
 - Verification: SystemVerilog Testbench
 
 ## Conclusion
-This project helped me understand the basic working of a 2:1 MUX and how a separate verification environment can be developed to check its functionality using SystemVerilog.
+This project provided hands-on experience with SystemVerilog Verification (SVV), helping me understand testbench architecture, stimulus generation, DUT monitoring, scoreboard-based checking, and functional coverage.
