@@ -72,6 +72,7 @@ The testbench contains the following components:
 ## Tools and Language
 
 - Language: SystemVerilog
+- Tool: WSL
 - Design: 2:1 Multiplexer
 - Verification: SystemVerilog Testbench
 
